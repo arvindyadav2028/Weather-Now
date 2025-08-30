@@ -1,0 +1,17 @@
+.FunCard {
+  display: flex;
+  justify-content: center;   /* horizontal center */
+  align-items: center;       /* vertical center (if parent has height) */
+
+  width: 400px;              /* same width as your weather card */
+  background: #fff;          /* white background */
+  border-radius: 12px;       /* smooth corners */
+  padding: 20px;
+  text-align: center;
+}
+
+.Tab {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  margin-top: 20px;        /* space from above */
+}
